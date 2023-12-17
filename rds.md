@@ -70,7 +70,7 @@ You should receive this message: Creating database inventory-db.
 
  If you receive an error message that mentions rds-monitoring-role, confirm that you have cleared the Enable Enhanced monitoring option in the previous step, and then try again.
 
-Before you continue to the next task, the database instance status must be Available. This process could take several minutes.
+Before you continue to the next task, the database instance status must be Available. This process could take several minutes
 
 ![image](./images/db-available.png)
 
